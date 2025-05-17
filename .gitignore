@@ -1,0 +1,31 @@
+# Pliki klasy Java
+*.class
+
+# Foldery kompilacyjne
+/bin/
+/build/
+
+# Pliki tymczasowe IDE (np. IntelliJ IDEA, Eclipse)
+.idea/
+*.iml
+*.log
+*.bak
+*.swp
+.vscode/
+
+# Zależności Maven lub Gradle
+/.mvn/
+/target/
+/.gradle/
+/build/
+
+# Pliki konfiguracyjne
+*.log
+*.tmp
+
+# Systemy operacyjne
+.DS_Store
+Thumbs.db
+
+# Inne pliki systemowe
+*.orig
